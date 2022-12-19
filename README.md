@@ -29,4 +29,4 @@ It was used to get rid of long if/else or switch & case statements.
 * Simple and light-weight.
 
 # Reference 
-Click [here](https://javascript.info/classes) to understand more on the use of classes.
+Click [here](https://javascript.info/class) to understand more on the use of classes.
